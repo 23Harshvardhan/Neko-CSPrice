@@ -1,0 +1,29 @@
+﻿<Window x:Class="Neko_CSPrice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Neko_CSPrice"
+        mc:Ignorable="d"
+        Title="Neko CSPrice" Height="235.755" Width="552.544" ResizeMode="NoResize" Background="#FF010028" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox x:Name="txtGunName" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="Enter Weapon Name Here" VerticalAlignment="Top" GotFocus="txtGunName_GotFocus" HorizontalAlignment="Left" Width="248"/>
+        <TextBox x:Name="txtSkinName" Height="23" Margin="10,38,0,0" TextWrapping="Wrap" Text="Enter Weapon Finish Name Here" VerticalAlignment="Top" GotFocus="txtSkinName_GotFocus" HorizontalAlignment="Left" Width="248"/>
+        <ComboBox x:Name="gunQuality" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Width="172" SelectedIndex="0">
+            <ComboBoxItem Content="Factory New"/>
+            <ComboBoxItem Content="Minimal Wear"/>
+            <ComboBoxItem Content="Field-Tested"/>
+            <ComboBoxItem Content="Well-Worn"/>
+            <ComboBoxItem Content="Battle-Scarred"/>
+        </ComboBox>
+        <CheckBox x:Name="isStatTrak" Content="StatTrak" HorizontalAlignment="Left" Margin="187,70,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblSteamPrice" Content="Steam Price:" HorizontalAlignment="Left" Margin="10,118,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="valSteamPrice" Content="0" HorizontalAlignment="Left" Margin="107,118,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Button x:Name="btnSearch" Content="Search" Margin="10,93,0,0" VerticalAlignment="Top" Click="btnSearch_Click" HorizontalAlignment="Left" Width="248" Height="25"/>
+        <Label x:Name="lblBitSkinsPrice" Content="BitSkins Price:" HorizontalAlignment="Left" Margin="10,170,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="valBitSkins" Content="0" HorizontalAlignment="Left" Margin="107,170,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="notax" Content="0" HorizontalAlignment="Left" Margin="107,144,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblSteamNoTax" Content="Steam Sale Price" HorizontalAlignment="Left" Margin="10,144,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Image Margin="263,0,-49,0" Source="asd.jpg"/>
+    </Grid>
+</Window>

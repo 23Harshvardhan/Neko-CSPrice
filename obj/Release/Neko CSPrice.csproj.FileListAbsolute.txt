@@ -1,0 +1,18 @@
+C:\Users\harsh\Desktop\Neko CSPrice\bin\Release\Neko CSPrice.exe.config
+C:\Users\harsh\Desktop\Neko CSPrice\bin\Release\Neko CSPrice.exe
+C:\Users\harsh\Desktop\Neko CSPrice\bin\Release\Neko CSPrice.pdb
+C:\Users\harsh\Desktop\Neko CSPrice\bin\Release\WebDriver.dll
+C:\Users\harsh\Desktop\Neko CSPrice\bin\Release\WebDriver.xml
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice.csproj.AssemblyReference.cache
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\MainWindow.g.cs
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\App.g.cs
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice_MarkupCompile.cache
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice_MarkupCompile.lref
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\MainWindow.baml
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice.g.resources
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko_CSPrice.Properties.Resources.resources
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice.csproj.GenerateResource.cache
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice.csproj.CopyComplete
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice.exe
+C:\Users\harsh\Desktop\Neko CSPrice\obj\Release\Neko CSPrice.pdb
